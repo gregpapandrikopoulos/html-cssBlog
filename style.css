@@ -1,0 +1,68 @@
+
+  .and{
+    color:brown;
+  }
+  .claspan{
+    color: brown;
+  }
+  .top-container{
+    background-color:rgb(155, 190, 200);
+    }
+
+    #rounded-image {
+        border-radius: 45% 20%;
+        overflow: hidden;
+    }
+    .myskills{
+        padding-bottom:50px;
+        padding-top:30px ;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin:auto;
+        margin-top:100px ;
+        width: auto;
+        
+        
+        background-color: rgb(221, 242, 253);
+        border-radius: 20%;
+      
+    }
+    .myhobbies{
+      padding-bottom:50px;
+      padding-top:30px ;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin:auto;
+      margin-top:100px ;
+      width: auto;
+        background-color: rgb(221, 242, 253);
+        border-radius: 20%;
+
+    }
+    .dog{
+      border-radius:100%
+    }
+
+    @media (min-width: 0px) and (max-width: 400px) {
+      .dog {
+      height: 70px;
+      }
+    }
+    .carousel{
+      margin-top: 50px;
+      margin-bottom: 50px;
+
+    }
+
+    .header{
+      margin-top: 50px;
+      text-align: center;
+      font-style: oblique;
+      font-size: 300%;
+    }
+    
+    #emailButton {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;}
+   
